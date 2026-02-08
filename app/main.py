@@ -10,7 +10,7 @@ origins = [
     "http://localhost:5173",
     "http://127.0.0.1:5501",      # VS Code Live Server
     "http://localhost:5501",
-    "https://main.de7n3724gcncd.amplifyapp.com/",
+    "https://main.de7n3724gcncd.amplifyapp.com",
     "https://vibacccount.com"
 ]
 
